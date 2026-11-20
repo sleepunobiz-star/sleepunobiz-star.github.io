@@ -1,1 +1,6 @@
-Christopher Tafoya portfolio V2 — refined creative profile and scroll-responsive liquid-silver foil. Upload index.html, style.css, and script.js to the root of sleepunobiz-star.github.io, replacing their earlier versions. Verify mobile layout and links before sharing with employers. No external Google Drive permissions were changed.
+Christopher Tafoya Portfolio V3 — Black / Liquid Silver
+
+Upload index.html, style.css, script.js to the ROOT of your GitHub Pages repository.
+
+V3: cinematic black theme, silver foil, refined contrast and mobile spacing.
+Project artwork is NOT yet embedded: the Drive sources are private and require asset extraction/review before inclusion. Do not make source Drive public just to display images.
