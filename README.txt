@@ -1,3 +1,1 @@
-Portfolio V6 image containment and typography patch.
-Replace index.html and style.css in GitHub repository root. Keep existing image files and script.js unchanged.
-No changes to Google Drive access or published site have been made here.
+Upload both index.html and music.html to the GitHub repository root. Keep existing style.css, script.js, and all image assets untouched. This is a visual structure preview: the existing Drive document contains artwork references, but original cover image bytes have not been extracted. The music page uses intentionally designed temporary typographic covers; replace with original cover assets before final approval.
