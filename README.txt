@@ -1,1 +1,1 @@
-Upload BOTH index.html and needle.html to the ROOT of your existing GitHub Pages repository. Replace index.html. Keep your existing arc-frame.jpg, music.html, samsung.html and other assets. The ARC image uses the already-published arc-frame.jpg. No private scripts or unreleased IP art are included.
+Upload all four files from this folder to the ROOT of your GitHub repository: index.html, film-games-original.html, interview-poster.jpg, teacher-of-the-year-poster.jpg. Keep existing style.css, script.js, music.html, samsung.html, needle.html and all other assets unchanged.
