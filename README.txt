@@ -1,1 +1,1 @@
-Upload only film-games-original.html to the root of your GitHub repository. Replace the existing file and commit. This adds the user-confirmed original Skillz artwork in the Skillz card; other pages are unchanged. The image is externally hosted by the artist and may depend on that site remaining available.
+Upload film-games-original.html to your GitHub repository root, replacing the existing file. This update adds the representative Scandal beer image only. Image loads from Hired Guns Creative/Squarespace CDN and may depend on their hosting.
