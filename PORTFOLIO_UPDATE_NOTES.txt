@@ -1,0 +1,1 @@
+Additive update only. Existing files preserved. Added film-animation.html, index navigation/gallery preview/Wikipedia, and chronological solo album section in music.html. Original video URLs not yet provided; no fake playable embeds. Verify live browser before publishing.
